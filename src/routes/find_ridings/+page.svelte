@@ -80,7 +80,7 @@
 
 	function goToRiding() {
 		if (sharedDistrict.selectedDistricts.length > 0) {
-			const nextDistrict = sharedDistrict.getNextDistrict();
+			const nextDistrict = sharedDistrict.selectedDistricts[0];
 			return goto(`/find_ridings/${nextDistrict}`);
 		}		
 	}
