@@ -43,7 +43,6 @@
 		"@floating-ui/dom": "^1.6.12",
 		"@stadiamaps/maplibre-search-box": "^1.1.0",
 		"lucide-svelte": "^0.454.0",
-		"maplibre-gl": "^4.7.1",
-		"typescript-slugify": "^1.0.1"
+		"maplibre-gl": "^4.7.1"
 	}
 }
