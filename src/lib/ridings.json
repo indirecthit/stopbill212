@@ -1,0 +1,402 @@
+{
+  "bay-of-quinte": {
+      "riding": "Bay of Quinte",
+      "rep": "Todd Smith",
+      "email": "Todd.Smithco@pc.ola.org"
+  },
+  "mississauga-centre": {
+      "riding": "Mississauga Centre",
+      "rep": "Natalia Kusendova-Bashta",
+      "email": "natalia.kusendova@pc.ola.org"
+  },
+  "kenora-rainy-river": {
+      "riding": "Kenora\u2014Rainy River",
+      "rep": "Greg Rickford",
+      "email": "Greg.Rickford@pc.ola.org"
+  },
+  "timmins": {
+      "riding": "Timmins",
+      "rep": "George Pirie",
+      "email": "george.pirie@pc.ola.org"
+  },
+  "durham": {
+      "riding": "Durham",
+      "rep": "Todd J. McCarthy",
+      "email": "Todd.McCarthy@pc.ola.org"
+  },
+  "aurora-oak-ridges-richmond-hill": {
+      "riding": "Aurora\u2014Oak Ridges\u2014Richmond Hill",
+      "rep": "Michael Parsa",
+      "email": "Michael.Parsaco@pc.ola.org"
+  },
+  "renfrew-nipissing-pembroke": {
+      "riding": "Renfrew\u2014Nipissing\u2014Pembroke",
+      "rep": "John Yakabuski",
+      "email": "John.Yakabuski@pc.ola.org"
+  },
+  "newmarket-aurora": {
+      "riding": "Newmarket\u2014Aurora",
+      "rep": "Dawn Gallagher Murphy",
+      "email": "Dawn.GallagherMurphy@pc.ola.org"
+  },
+  "eglinton-lawrence": {
+      "riding": "Eglinton\u2014Lawrence",
+      "rep": "Robin Martin",
+      "email": "Robin.Martin@pc.ola.org"
+  },
+  "york-south-weston": {
+      "riding": "York South\u2014Weston",
+      "rep": "Michael D. Ford",
+      "email": "Michael.Ford@pc.ola.org"
+  },
+  "lanark-frontenac-kingston": {
+      "riding": "Lanark\u2014Frontenac\u2014Kingston",
+      "rep": "John Jordan",
+      "email": "John.Jordan@pc.ola.org"
+  },
+  "flamborough-glanbrook": {
+      "riding": "Flamborough\u2014Glanbrook",
+      "rep": "Donna Skelly",
+      "email": "Donna.Skelly@pc.ola.org"
+  },
+  "niagara-west": {
+      "riding": "Niagara West",
+      "rep": "Sam Oosterhoff",
+      "email": "Sam.Oosterhoff@pc.ola.org"
+  },
+  "essex": {
+      "riding": "Essex",
+      "rep": "Anthony Leardi",
+      "email": "Anthony.Leardi@pc.ola.org"
+  },
+  "willowdale": {
+      "riding": "Willowdale",
+      "rep": "Stan Cho",
+      "email": "Stan.Cho@pc.ola.org"
+  },
+  "thunder-bay-atikokan": {
+      "riding": "Thunder Bay\u2014Atikokan",
+      "rep": "Kevin Holland",
+      "email": "Kevin.Holland@pc.ola.org"
+  },
+  "sarnia-lambton": {
+      "riding": "Sarnia\u2014Lambton",
+      "rep": "Robert Bailey",
+      "email": "Bob.Bailey@pc.ola.org"
+  },
+  "perth-wellington": {
+      "riding": "Perth\u2014Wellington",
+      "rep": "Matthew Rae",
+      "email": "Matthew.Rae@pc.ola.org"
+  },
+  "brampton-west": {
+      "riding": "Brampton West",
+      "rep": "Amarjot Sandhu",
+      "email": "Amarjot.Sandhu@pc.ola.org"
+  },
+  "peterborough-kawartha": {
+      "riding": "Peterborough\u2014Kawartha",
+      "rep": "Dave Smith",
+      "email": "Dave.Smith@pc.ola.org"
+  },
+  "simcoe-grey": {
+      "riding": "Simcoe\u2014Grey",
+      "rep": "Brian Saunderson",
+      "email": "Brian.Saunderson@pc.ola.org"
+  },
+  "pickering-uxbridge": {
+      "riding": "Pickering\u2014Uxbridge",
+      "rep": "Peter Bethlenfalvy",
+      "email": "Peter.Bethlenfalvy@pc.ola.org"
+  },
+  "markham-thornhill": {
+      "riding": "Markham\u2014Thornhill",
+      "rep": "Logan Kanapathi",
+      "email": "Logan.Kanapathico@pc.ola.org"
+  },
+  "thornhill": {
+      "riding": "Thornhill",
+      "rep": "Laura Smith",
+      "email": "Laura.Smith@pc.ola.org"
+  },
+  "bruce-grey-owen-sound": {
+      "riding": "Bruce\u2014Grey\u2014Owen Sound",
+      "rep": "Rick Byers",
+      "email": "Rick.Byers@pc.ola.org"
+  },
+  "brampton-north": {
+      "riding": "Brampton North",
+      "rep": "Graham McGregor",
+      "email": "Graham.McGregor@pc.ola.org"
+  },
+  "wellington-halton-hills": {
+      "riding": "Wellington\u2014Halton Hills",
+      "rep": "Ted Arnott",
+      "email": "ted.arnott@pc.ola.org"
+  },
+  "windsor-tecumseh": {
+      "riding": "Windsor\u2014Tecumseh",
+      "rep": "Andrew Dowie",
+      "email": "Andrew.Dowie@pc.ola.org"
+  },
+  "milton": {
+      "riding": "Milton",
+      "rep": "Zee Hamid",
+      "email": "zee.hamid@pc.ola.org"
+  },
+  "markham-stouffville": {
+      "riding": "Markham\u2014Stouffville",
+      "rep": "Paul Calandra",
+      "email": "Paul.Calandra@pc.ola.org"
+  },
+  "brampton-centre": {
+      "riding": "Brampton Centre",
+      "rep": "Charmaine A. Williams",
+      "email": "Charmaine.Williams@pc.ola.org"
+  },
+  "haliburton-kawartha-lakes-brock": {
+      "riding": "Haliburton\u2014Kawartha Lakes\u2014Brock",
+      "rep": "Laurie Scott",
+      "email": "Laurie.Scott@pc.ola.org"
+  },
+  "ajax": {
+      "riding": "Ajax",
+      "rep": "Patrice Barnes",
+      "email": "Patrice.Barnes@pc.ola.org"
+  },
+  "brampton-east": {
+      "riding": "Brampton East",
+      "rep": "Hardeep Singh Grewal",
+      "email": "Hardeep.Grewal@pc.ola.org"
+  },
+  "mississauga-lakeshore": {
+      "riding": "Mississauga\u2014Lakeshore",
+      "rep": "Rudy Cuzzetto",
+      "email": "Rudy.Cuzzetto@pc.ola.org"
+  },
+  "mississauga-erin-mills": {
+      "riding": "Mississauga\u2014Erin Mills",
+      "rep": "Sheref Sabawy",
+      "email": "Sheref.Sabawy@pc.ola.org"
+  },
+  "york-centre": {
+      "riding": "York Centre",
+      "rep": "Michael S. Kerzner",
+      "email": "Michael.Kerzner@pc.ola.org"
+  },
+  "carleton": {
+      "riding": "Carleton",
+      "rep": "Goldie Ghamari",
+      "email": "Goldie.Ghamari@pc.ola.org"
+  },
+  "vaughan-woodbridge": {
+      "riding": "Vaughan\u2014Woodbridge",
+      "rep": "Michael A. Tibollo",
+      "email": "Michael.Tibolloco@pc.ola.org"
+  },
+  "glengarry-prescott-russell": {
+      "riding": "Glengarry\u2014Prescott\u2014Russell",
+      "rep": "St\u00e9phane Sarrazin",
+      "email": "Stephane.Sarrazin@pc.ola.org"
+  },
+  "leeds-grenville-thousand-islands-and-rideau-lakes": {
+      "riding": "Leeds\u2014Grenville\u2014Thousand Islands and Rideau Lakes",
+      "rep": "Steve Clark",
+      "email": "Steve.Clark@pc.ola.org"
+  },
+  "etobicoke-centre": {
+      "riding": "Etobicoke Centre",
+      "rep": "Kinga Surma",
+      "email": "Kinga.Surma@pc.ola.org"
+  },
+  "scarborough-agincourt": {
+      "riding": "Scarborough\u2014Agincourt",
+      "rep": "Aris Babikian",
+      "email": "Aris.Babikian@pc.ola.org"
+  },
+  "mississauga-malton": {
+      "riding": "Mississauga\u2014Malton",
+      "rep": "Deepak Anand",
+      "email": "Deepak.anandco@pc.ola.org"
+  },
+  "oakville-north-burlington": {
+      "riding": "Oakville North\u2014Burlington",
+      "rep": "Effie J. Triantafilopoulos",
+      "email": "Effie.Triantafilopoulos@pc.ola.org"
+  },
+  "elgin-middlesex-london": {
+      "riding": "Elgin\u2014Middlesex\u2014London",
+      "rep": "Rob Flack",
+      "email": "Rob.Flack@pc.ola.org"
+  },
+  "brampton-south": {
+      "riding": "Brampton South",
+      "rep": "Prabmeet Singh Sarkaria",
+      "email": "Prabmeet.Sarkaria@pc.ola.org"
+  },
+  "king-vaughan": {
+      "riding": "King\u2014Vaughan",
+      "rep": "Stephen Lecce",
+      "email": "Stephen.Lecce@pc.ola.org"
+  },
+  "mississauga-streetsville": {
+      "riding": "Mississauga\u2014Streetsville",
+      "rep": "Nina Tangri",
+      "email": "Nina.Tangri@pc.ola.org"
+  },
+  "sault-ste-marie": {
+      "riding": "Sault Ste. Marie",
+      "rep": "Ross Romano",
+      "email": "Ross.Romano@pc.ola.org"
+  },
+  "etobicoke-north": {
+      "riding": "Etobicoke North",
+      "rep": "Doug Ford",
+      "email": "doug.fordco@pc.ola.org"
+  },
+  "oxford": {
+      "riding": "Oxford",
+      "rep": "Ernie Hardeman",
+      "email": "Ernie.Hardeman@pc.ola.org"
+  },
+  "oakville": {
+      "riding": "Oakville",
+      "rep": "Stephen Crawford",
+      "email": "Stephen.Crawford@pc.ola.org"
+  },
+  "scarborough-centre": {
+      "riding": "Scarborough Centre",
+      "rep": "David Smith",
+      "email": "david.smith1@pc.ola.org"
+  },
+  "barrie-springwater-oro-medonte": {
+      "riding": "Barrie\u2014Springwater\u2014Oro-Medonte",
+      "rep": "Doug Downey",
+      "email": "Doug.Downey@pc.ola.org"
+  },
+  "scarborough-rouge-park": {
+      "riding": "Scarborough\u2014Rouge Park",
+      "rep": "Vijay Thanigasalam",
+      "email": "Vijay.Thanigasalam@pc.ola.org"
+  },
+  "richmond-hill": {
+      "riding": "Richmond Hill",
+      "rep": "Daisy Wai",
+      "email": "Daisy.Wai@pc.ola.org"
+  },
+  "northumberland-peterborough-south": {
+      "riding": "Northumberland\u2014Peterborough South",
+      "rep": "David Piccini",
+      "email": "David.Piccini@pc.ola.org"
+  },
+  "cambridge": {
+      "riding": "Cambridge",
+      "rep": "Brian Riddell",
+      "email": "Brian.Riddell@pc.ola.org"
+  },
+  "nepean": {
+      "riding": "Nepean",
+      "rep": "Lisa MacLeod",
+      "email": "Lisa.Macleodco@pc.ola.org"
+  },
+  "york-simcoe": {
+      "riding": "York\u2014Simcoe",
+      "rep": "Caroline Mulroney",
+      "email": "Caroline.Mulroney@pc.ola.org"
+  },
+  "burlington": {
+      "riding": "Burlington",
+      "rep": "Natalie Pierre",
+      "email": "Natalie.Pierre@pc.ola.org"
+  },
+  "nipissing": {
+      "riding": "Nipissing",
+      "rep": "Victor Fedeli",
+      "email": "Vic.Fedeli@pc.ola.org"
+  },
+  "dufferin-caledon": {
+      "riding": "Dufferin\u2014Caledon",
+      "rep": "Sylvia Jones",
+      "email": "Sylvia.Jones@pc.ola.org"
+  },
+  "lambton-kent-middlesex": {
+      "riding": "Lambton\u2014Kent\u2014Middlesex",
+      "rep": "Steve Pinsonneault",
+      "email": "steve.pinsonneault@pc.ola.org"
+  },
+  "whitby": {
+      "riding": "Whitby",
+      "rep": "Lorne Coe",
+      "email": "Lorne.Coe@pc.ola.org"
+  },
+  "hamilton-east-stoney-creek": {
+      "riding": "Hamilton East\u2014Stoney Creek",
+      "rep": "Neil Lumsden",
+      "email": "Neil.Lumsden@pc.ola.org"
+  },
+  "stormont-dundas-south-glengarry": {
+      "riding": "Stormont\u2014Dundas\u2014South Glengarry",
+      "rep": "Nolan Quinn",
+      "email": "Nolan.Quinn@pc.ola.org"
+  },
+  "chatham-kent-leamington": {
+      "riding": "Chatham-Kent\u2014Leamington",
+      "rep": "Trevor Jones",
+      "email": "Trevor.Jones@pc.ola.org"
+  },
+  "markham-unionville": {
+      "riding": "Markham\u2014Unionville",
+      "rep": "Billy Pang",
+      "email": "Billy.Pangco@pc.ola.org"
+  },
+  "brantford-brant": {
+      "riding": "Brantford\u2014Brant",
+      "rep": "Will Bouma",
+      "email": "will.bouma@pc.ola.org"
+  },
+  "barrie-innisfil": {
+      "riding": "Barrie\u2014Innisfil",
+      "rep": "Andrea Khanjin",
+      "email": "andrea.khanjin@pc.ola.org"
+  },
+  "kitchener-south-hespeler": {
+      "riding": "Kitchener South\u2014Hespeler",
+      "rep": "Jess Dixon",
+      "email": "Jess.Dixon@pc.ola.org"
+  },
+  "hastings-lennox-and-addington": {
+      "riding": "Hastings\u2014Lennox and Addington",
+      "rep": "Ric Bresee",
+      "email": "Ric.Bresee@pc.ola.org"
+  },
+  "etobicoke-lakeshore": {
+      "riding": "Etobicoke\u2014Lakeshore",
+      "rep": "Christine Hogarth",
+      "email": "Christine.Hogarth@pc.ola.org"
+  },
+  "parry-sound-muskoka": {
+      "riding": "Parry Sound\u2014Muskoka",
+      "rep": "Graydon Smith",
+      "email": "Graydon.Smith@pc.ola.org"
+  },
+  "simcoe-north": {
+      "riding": "Simcoe North",
+      "rep": "Jill Dunlop",
+      "email": "Jill.Dunlop@pc.ola.org"
+  },
+  "scarborough-north": {
+      "riding": "Scarborough North",
+      "rep": "Raymond Sung Joon Cho",
+      "email": "Raymond.Cho@pc.ola.org"
+  },
+  "huron-bruce": {
+      "riding": "Huron\u2014Bruce",
+      "rep": "Lisa M. Thompson",
+      "email": "Lisa.Thompson@pc.ola.org"
+  },
+  "kitchener-conestoga": {
+      "riding": "Kitchener\u2014Conestoga",
+      "rep": "Mike Harris",
+      "email": "Mike.Harris@pc.ola.org"
+  }
+}
