@@ -20,7 +20,12 @@
 	};
 
 	let { letterContent, rep, riding, email }: Props = $props();
-	let emailCopy = $state(letterContent)
+	let emailCopy = $state(letterContent);
+
+	let mailTohref = $derived.by(() => {
+		const subject = "I do not support Bill 212"
+        return encodeURI(`mailto:?subject=${subject}&body=${emailCopy}`);
+    });
 
     let emailInput: HTMLInputElement;
 </script>
@@ -53,10 +58,10 @@
 		<textarea class="h-48 w-full p-4" bind:value={emailCopy}></textarea>
 	</label>
 	<div class="flex space-x-4">
-		<button class="variant-filled-primary btn btn-sm flex-grow" use:clipboard={emailCopy}>
+		<a href={mailTohref} class="variant-filled-primary btn btn-sm flex-grow" target="_blank">
 			<span><Mail /></span>
 			<span>Send Message</span>
-		</button>
+		</a>
 		<button class="variant-outline btn btn-sm flex-grow" use:clipboard={emailCopy}>
 			<span><Clipboard /></span>
 			<span>Copy Message</span>
