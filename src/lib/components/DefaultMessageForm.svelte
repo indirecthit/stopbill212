@@ -53,7 +53,7 @@
                 <WhatsApp {url} title={message} />
                 <Facebook {url} quote={message} />
                 <Email subject="I need your help" body={message} />
-                <button class="variant-outline btn btn-sm flex-grow" use:clipboard={message}>
+                <button class="variant-outline btn btn-sm flex-grow" use:clipboard={message}  data-umami-event="social > Copy">
                     <span><ClipboardCopyIcon /></span>
                     <span>Copy Message</span>
                 </button>                

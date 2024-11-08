@@ -67,11 +67,11 @@
 		<textarea class="h-48 w-full p-4" value={emailCopy}></textarea>
 	</label>
 	<div class="flex space-x-4">
-		<a href={mailTohref} class="variant-filled-primary btn btn-sm flex-grow" target="_blank">
+		<a href={mailTohref} class="variant-filled-primary btn btn-sm flex-grow" target="_blank"  data-umami-event="contact_form > send">
 			<span><Mail /></span>
 			<span>Send Message</span>
 		</a>
-		<button class="variant-outline btn btn-sm flex-grow" use:clipboard={emailCopy}>
+		<button class="variant-outline btn btn-sm flex-grow" use:clipboard={emailCopy} data-umami-event="contact_form > copy">
 			<span><Clipboard /></span>
 			<span>Copy Message</span>
 		</button>
