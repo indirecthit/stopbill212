@@ -39,7 +39,7 @@
 
 <div class="mx-auto flex grid min-h-screen max-w-4xl grid-rows-[auto_1fr_auto] px-4 lg:px-0">
 	<header class="flex w-full py-4">
-		<span class="flex-1">Stop Bill 212 </span>
+		<span class="flex-1 font-black"><a href="/">STOP BILL 212</a></span>
 		<span class="flex-none">		
 		</span>
 	</header>
@@ -83,9 +83,9 @@
 					<Tab bind:group={tabSet} name="tab2" value={1}>Write your own</Tab>
 					<svelte:fragment slot="panel">
 						{#if tabSet === 0}
-							<DefaultMessageForm ridingName={data.riding.riding} email={data.riding.email} />
+							<DefaultMessageForm ridingName={data.riding.riding} email={data.riding.email} ridingSlug={data.slug}/>
 						{:else if tabSet === 1}
-							<WriteMessageForm email={data.riding.email} rep={data.riding.rep} />
+							<WriteMessageForm email={data.riding.email} rep={data.riding.rep} ridingSlug={data.slug}/>
 						{/if}
 					</svelte:fragment>
 				</TabGroup>

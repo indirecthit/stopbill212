@@ -1,8 +1,15 @@
 <script lang="ts">
 	import { clipboard } from '@skeletonlabs/skeleton';
 	import { ClipboardCopyIcon } from 'lucide-svelte';
+	import { onMount } from 'svelte';
 
-	let { email, rep }: { email: string; rep: string } = $props();
+	let url = $state('');
+	onMount(() => {
+		const { hostname } = window.location;
+		url = `https://${hostname}/${ridingSlug}`;
+	});
+
+	let { email, rep, ridingSlug }: { email: string; rep: string, ridingSlug: string } = $props();
 </script>
 
 <div class="flex flex-col space-y-4">
@@ -24,8 +31,8 @@
 	<label class="label">
 		<span class="font-bold">Info Page</span>
 		<div class="input-group input-group-divider grid-cols-[1fr_auto]">
-			<input type="text" value={'https://....'} readonly={true} />
-			<button use:clipboard={rep}><ClipboardCopyIcon /></button>
+			<input type="text" value={url} readonly={true} />
+			<button use:clipboard={url}><ClipboardCopyIcon /></button>
 		</div>
 	</label>
 </div>

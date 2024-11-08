@@ -5,7 +5,7 @@
 
 
 	<div class="container mx-auto w-full md:max-w-2xl flex-col space-y-8">
-        <h1 class="text-6xl font-bold">STOP BILL 212</h1>
+        <h1 class="text-6xl font-black">STOP BILL 212</h1>
         <p>
             Bill 212 is a dangerous piece of legislation that would allow the government to seize your property without due process. It's a direct attack on our rights and freedoms. We need to stop it now.
         </p>

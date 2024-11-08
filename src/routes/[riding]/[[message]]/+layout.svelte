@@ -5,7 +5,7 @@
 
 <div class="container mx-auto min-h-screen grid grid-rows-[auto_1fr_auto] flex" >
     <header class="p-4">
-		STOP BILL 212
+      <span class="flex-1 font-black"><a href="/">STOP BILL 212</a></span>
     </header>
     <main class="flex flex-grow justify-center space-y-4">
 		    {@render children()}

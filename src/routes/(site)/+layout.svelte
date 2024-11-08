@@ -4,7 +4,7 @@
 
 
 <div class="min-h-screen flex flex-col" >
-    <main class="flex-grow items-center justify-center flex p-8">
+    <main class="flex-grow items-center justify-center flex p-4">
 		{@render children()}
     </main>
     <footer class="p-4 text-center">

@@ -1,4 +1,10 @@
 <script lang="ts">
+	import { Modal, getModalStore } from '@skeletonlabs/skeleton';
+	import type { ModalSettings, ModalComponent, ModalStore } from '@skeletonlabs/skeleton';
+	const modalStore = getModalStore();
+
+	import { ArrowBigRight, CircleHelp } from 'lucide-svelte';
+
 	import { onDestroy, onMount } from 'svelte';
 	import { sharedDistrict } from '$lib/districts.svelte';
 
@@ -68,14 +74,27 @@
 			map.remove();
 		}
 	});
+	function showHelp() {
+		const modal: ModalSettings = {
+			type: 'alert',
+			// Data
+			title: 'Example Alert',
+			body: 'This is an example modal.',
+			image: 'https://i.imgur.com/WOgTG96.gif',
+		};
+		modalStore.trigger(modal);		
+	}	
 </script>
 
 <svelte:window bind:innerHeight={innerHeight} />
 
 <div class="mx-auto flex grid h-full max-h-screen max-w-4xl grid-rows-[auto_1fr_auto]">
-	<header class="flex w-full p-4" bind:offsetHeight={headerHeight}>
-		<span class="flex-1">Stop Bill 212 </span>
-		<span class="flex-none">
+	<header class="flex w-full p-4 items-center" bind:offsetHeight={headerHeight}>
+		<span class="flex-1 font-black"><a href="/">STOP BILL 212</a></span>
+		<span class="flex-none flex items-center">
+			<button class="btn btn-icon" onclick={showHelp}>
+				<span><CircleHelp/></span>
+			</button>
 		</span>
 	</header>
 	<main class="flex flex-grow justify-center space-y-4 p-4">

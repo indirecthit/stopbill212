@@ -1,16 +1,23 @@
 <script lang="ts">
     import { clipboard } from '@skeletonlabs/skeleton';
 	import { ClipboardCopyIcon } from 'lucide-svelte';
+    import { onMount } from 'svelte';
     import Messages from '$lib/content/messages.yaml';
 
-    let { ridingName, email }: {ridingName: string, email: string} = $props();
+    let { ridingName, email, ridingSlug }: {ridingName: string, email: string, ridingSlug: string} = $props();
     let selectedMessage = $state('default');
 	let messageInput: HTMLTextAreaElement;
 
+	let url = $state('');
+	onMount(() => {
+		const { hostname } = window.location;
+		url = `https://${hostname}/${ridingSlug}`;
+	});  
+
     let message = $derived.by(() => {
         const m = Messages[selectedMessage].sms;
-        return m.replace('{riding}', ridingName).replace('{email}', email);
-    });
+        return m.replace('{riding}', ridingName).replace('{email}', email).replace('{link}', url);
+    });  
   </script>
   
 <div class="flex flex-col space-y-4">
