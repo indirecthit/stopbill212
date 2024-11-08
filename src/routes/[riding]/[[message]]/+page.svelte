@@ -38,7 +38,7 @@
 
 <div class="w-full flex flex-col lg:flex-row lg:max-w-6xl">
     <!-- Left column on desktop, top and bottom on mobile -->
-    <div class="w-full lg:w-2/3 flex flex-col">
+    <div class="w-full lg:w-3/5 flex flex-col">
         <!-- Ask section - always at top -->
         <div class="m-4">
             <h2 class="text-2xl font-bold mb-4">An Ask</h2>
@@ -71,7 +71,7 @@
     </div>
 
     <!-- Right column on desktop, middle on mobile -->
-    <div class="w-full lg:w-1/3 lg:pl-4" bind:this={contactForm}>
+    <div class="w-full lg:w-2/5 lg:pl-4" bind:this={contactForm}>
         <ContactForm {letterContent} rep={data.riding.rep} riding={data.riding.riding} email={data.riding.email} />
     </div>
 </div>
