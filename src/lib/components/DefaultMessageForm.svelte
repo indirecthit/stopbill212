@@ -11,10 +11,17 @@
     let selectedMessage = $state('default');
 	let messageInput: HTMLTextAreaElement;
 
-	let url = $state('');
-	onMount(() => {
-		const { hostname } = window.location;
-		url = `https://${hostname}/${ridingSlug}`;
+    let base_url = $state('');
+	let url = $derived.by(() => {
+        let temp_url = base_url;
+        if (selectedMessage !== 'default') {
+            temp_url += `/${selectedMessage}`;
+        }
+        return temp_url;
+    });  
+    onMount(() => {
+        const { hostname } = window.location;
+        base_url = `https://${hostname}/${ridingSlug}`;
 	});  
 
     let message = $derived.by(() => {
