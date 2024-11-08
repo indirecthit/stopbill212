@@ -20,12 +20,13 @@
 	};
 
 	let { letterContent, rep, riding, email }: Props = $props();
+	let emailCopy = $state(letterContent)
 
     let emailInput: HTMLInputElement;
 </script>
 
 <div class="m-4 flex-col space-y-4">
-	<h2 class="mb-4 text-2xl font-bold">Contact {rep} (MPP for {riding})</h2>
+	<h2 class="mb-4 text-2xl font-bold">Contact {rep} ({riding})</h2>
 	<label class="label">
 		<span>Contact Email</span>
 		<div class="input-group input-group-divider grid-cols-[1fr_auto]">
@@ -49,14 +50,14 @@
                 <span>Customize Message</span>
             </button> -->
 		</div>
-		<textarea class="h-48 w-full p-4">{letterContent}</textarea>
+		<textarea class="h-48 w-full p-4" bind:value={emailCopy}></textarea>
 	</label>
 	<div class="flex space-x-4">
-		<button class="variant-filled-primary btn btn-sm flex-grow" use:clipboard={email}>
+		<button class="variant-filled-primary btn btn-sm flex-grow" use:clipboard={emailCopy}>
 			<span><Mail /></span>
 			<span>Send Message</span>
 		</button>
-		<button class="variant-outline btn btn-sm flex-grow" use:clipboard={email}>
+		<button class="variant-outline btn btn-sm flex-grow" use:clipboard={emailCopy}>
 			<span><Clipboard /></span>
 			<span>Copy Message</span>
 		</button>

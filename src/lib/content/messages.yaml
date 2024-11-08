@@ -1,0 +1,95 @@
+default:
+  title: Default
+  sms: >
+    Our streets should work for everyone - from kids heading to school to seniors visiting the park. Protected lanes make that possible. Would mean a lot if you could take a minute to tell your MPP you support keeping our cities safe: {link}
+  ask: >
+    The Ontario government is proposing a framework that would require provincial approval for municipal bike lanes and remove existing bike lanes. This policy would create unnecessary barriers to sustainable transportation infrastructure and undermine our right to a healthful environment. We need to act now to protect our communities and the environment.
+  email: |
+    Dear {rep},
+    I am writing about the proposed framework requiring provincial approval for municipal bike lanes. This policy raises serious environmental concerns.
+    The Environmental Bill of Rights establishes our right to a healthful environment. Bike lanes directly support this right by reducing air pollution, decreasing harmful stormwater runoff, and creating safer streets. The proposed framework contradicts these environmental protections by creating unnecessary barriers to sustainable transportation infrastructure.
+    Municipalities already make informed decisions about local transportation needs based on community and environmental conditions. Adding provincial oversight will only slow their ability to implement evidence-based solutions that benefit both the environment and residents.
+    I urge you to reconsider this framework and instead support municipalities in developing environmentally responsible transportation networks.
+    Sincerely,
+    [Your Name]
+safety_for_me:
+  title: Safety for Me
+  sms: >
+    The province wants to remove the bike lanes I use to get to work next month. I won't feel safe biking without these lanes. Would mean a lot if you could let your MPP know we need safe streets for everyone. Takes 1 min: {link}
+  ask: >
+    I rely on protected bike lanes to get home safely to my family each day. Research shows these lanes reduce crashes for everyone - and they're working in our community. But the province plans to remove them next month. Would mean the world if you could take a minute to help keep me safe.
+  email: |
+    SAFETY SAFETY 
+    Dear {rep},
+    I am writing about the proposed framework requiring provincial approval for municipal bike lanes. This policy raises serious environmental concerns.
+    The Environmental Bill of Rights establishes our right to a healthful environment. Bike lanes directly support this right by reducing air pollution, decreasing harmful stormwater runoff, and creating safer streets. The proposed framework contradicts these environmental protections by creating unnecessary barriers to sustainable transportation infrastructure.
+    Municipalities already make informed decisions about local transportation needs based on community and environmental conditions. Adding provincial oversight will only slow their ability to implement evidence-based solutions that benefit both the environment and residents.
+    I urge you to reconsider this framework and instead support municipalities in developing environmentally responsible transportation networks.
+    Sincerely,
+    [Your Name]  
+money:
+  title: Money
+  sms: >
+    Our cities spent years planning and building safer streets, including protected bike lanes that help reduce crashes. Now the province wants us to spend more taxpayer money to tear them out and rebuild the roads again. Let your MPP know you'd rather see our tax dollars used wisely:
+  ask: >
+    Protected bike lanes help everyone get home safely - whether you drive, walk, or bike. Studies show they reduce crashes and help traffic flow more smoothly by giving people transportation choices. But instead of solving real transportation challenges, the Ontario government wants to spend millions in tax dollars tearing out bike lanes that local communities carefully planned and built. They're asking you to pay twice - once for installation and again for removal - while making our streets less safe for families. Before the province removes bike lanes that help keep your family and friends safe, contact your MPP today to share why safe streets matter to you.
+  email: |
+    b
+safety_for_all:
+  title: Safety for All
+  sms: >
+    Did you know studies show protected bike lanes reduce crashes for ALL road users - drivers, pedestrians & cyclists? But Ontario wants to remove ours. If you can spare 60 seconds, please tell your MPP you support keeping our community's streets safe: {link} Thanks for considering!
+  ask: >
+    Every year, too many Ontarians are injured or killed on our roads, but we know how to prevent these tragedies. Cities that maintain protected bike lanes see 44% fewer traffic deaths and serious injuries for all road users - whether they drive, walk, bike, or take transit. Before the province removes bike lanes that help keep your family and friends safe, contact your MPP today to share why safe streets matter to you.
+  email: |
+    b
+research:
+  title: Research & Data
+  sms: >
+    Montreal, Vancouver, and cities worldwide have shown that protected bike lanes help everyone get around better. After adding lanes, Montreal saw smoother traffic flow and fewer crashes for all road users. Worth 60 seconds to tell your MPP you support keeping Ontariio's bike lanes? {link}
+  ask: >
+    When we're stuck in traffic, it's tempting to blame bike lanes. But evidence from cities around the world shows that removing them won't solve congestion – in fact, it often makes it worse. Protected bike lanes help reduce traffic by giving people a safe alternative for shorter trips, taking cars off the road during rush hour. In Toronto, studies have found that construction and population growth are the real causes of most delays, while bike lanes have had little impact on car travel times. 
+  email: |
+    b    
+local_autonomy:
+  title: Local Autonomy
+  sms: >
+    Even if you don't live in Toronto, this affects communities across Ontario. The province's plan to remove bike lanes sets a concerning precedent for local decision-making everywhere. Would mean a lot if you took a minute to tell your MPP you support letting cities choose what's best for their streets: {link}
+  ask: >
+    Our streets belong to all of us - whether we drive, walk, or bike. That's why it's so important that local communities have the freedom to gradually improve road safety in ways that work for them. Bike lanes have proven safety benefits in neighborhoods of all sizes. Now the province wants to take away the right of towns and cities to make these important decisions for ourselves. If you believe our communities should have a voice in keeping our streets safe, please take a minute to reach out to your MPP. Let them know you support local choice in how we spend our tax dollars to create thriving, livable streets for all.
+  email: |
+    Dear {rep},
+    
+    I am writing as a concerned citizen of your riding to express my opposition to Bill 212.
+    
+    My primary objection to this legislation is that it strips away the rights of local communities to make decisions about major infrastructure projects that will profoundly impact them. The sections regarding Highway 413 are a prime example. By forcing through this controversial project, Bill 212 runs roughshod over the wishes of municipalities, conservation authorities, and residents who have raised valid concerns about the highway's impacts on their communities and environment.
+    
+    Local councils and communities know their own needs best. They deserve to have the autonomy to conduct proper consultations, studies and debates to determine if projects like Highway 413 are truly in their best interests. Bill 212 deprives them of that democratic right and concentrates far too much unilateral power in the provincial government's hands.
+    
+    No matter where one stands on Highway 413 itself, we should all be alarmed by the precedent Bill 212 sets in eroding local decision-making authority. I urge you to stand up for the democratic rights of the communities you represent by voting against this overreaching legislation.
+    
+    Thank you for considering my views.
+    
+    Sincerely,
+    [Your Name]
+highway_413:
+  title: Highway 413
+  sms: >
+    While rushing through bike lane removals with limited public input, the province is also fast-tracking an $8+ billion highway that experts say won't reduce congestion. Take 60 seconds to ask your MPP to prioritize proven local solutions over costly mega-projects: {link}
+  ask: >
+    As Ontarians, we all want to see our communities thrive. But the proposed Highway 413 is raising serious questions about how we invest our infrastructure dollars responsibly. Evidence shows that new highways often fail to reduce traffic in the long run, while pulling funds away from more cost-effective transportation options that benefit everyone. Before we commit billions to Highway 413, let's make sure we're investing in projects that truly deliver the greatest public good. Please take a moment to contact your MPP and let them know you support responsible transportation planning.
+  email: |
+    Dear {rep},
+
+    As one of your constituents, I am writing to voice my opposition to the Highway 413 project included in Bill 212.
+
+    Highway 413 is projected to cost taxpayers over $6 billion while studies show it would only save drivers 30-60 seconds per trip. It will also pave over thousands of acres of valuable farmland, forests and wetlands in our community, undermining Ontario's environmental protection goals.
+
+    There are far more cost-effective and eco-friendly transportation solutions, such as expanding public transit, improving regional rail, and promoting carpooling. Our tax dollars should be spent on projects that provide real benefits, not billions on an unnecessary highway that will harm our environment.
+
+    I ask you to consider these serious drawbacks and take a stand against Highway 413 when Bill 212 comes to a vote. I would be happy to discuss my concerns with you further.
+
+    Thank you for your service and for considering the views of your constituents on this important issue.
+
+    Sincerely,
+    [Your Name]    

@@ -12,6 +12,7 @@
 		"lint": "prettier --check . && eslint ."
 	},
 	"devDependencies": {
+		"@modyfi/vite-plugin-yaml": "^1.1.0",
 		"@skeletonlabs/skeleton": "^2.10.3",
 		"@skeletonlabs/tw-plugin": "^0.4.0",
 		"@sveltejs/adapter-auto": "^3.0.0",
@@ -29,6 +30,7 @@
 		"eslint-config-prettier": "^9.1.0",
 		"eslint-plugin-svelte": "^2.36.0",
 		"globals": "^15.0.0",
+		"marked": "^14.1.4",
 		"prettier": "^3.3.2",
 		"prettier-plugin-svelte": "^3.2.6",
 		"prettier-plugin-tailwindcss": "^0.6.5",
@@ -44,6 +46,7 @@
 		"@floating-ui/dom": "^1.6.12",
 		"@stadiamaps/maplibre-search-box": "^1.1.0",
 		"lucide-svelte": "^0.454.0",
-		"maplibre-gl": "^4.7.1"
+		"maplibre-gl": "^4.7.1",
+		"marked-footnote": "^1.2.4"
 	}
 }

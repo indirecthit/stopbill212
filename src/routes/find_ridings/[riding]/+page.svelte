@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { ArrowBigRight, ArrowBigLeft, BadgeCheck } from 'lucide-svelte';
-	import RidingMap from '$lib/components/ridingMap.svelte';
+	import RidingMap from '$lib/components/RidingMap.svelte';
 	import { sharedDistrict, ridingsTyped } from '$lib/districts.svelte';
 	import { goto } from '$app/navigation';
 	import { TabGroup, Tab, TabAnchor } from '@skeletonlabs/skeleton';
