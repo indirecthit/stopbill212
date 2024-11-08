@@ -41,7 +41,7 @@
     <div class="w-full lg:w-3/5 flex flex-col">
         <!-- Ask section - always at top -->
         <div class="m-4">
-            <h2 class="text-2xl font-bold mb-4">An Ask</h2>
+            <h2 class="text-2xl font-bold mb-4">An Ask...</h2>
             <p>
                 {ask}
             </p>

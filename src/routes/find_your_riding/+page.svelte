@@ -78,9 +78,15 @@
 		const modal: ModalSettings = {
 			type: 'alert',
 			// Data
-			title: 'Example Alert',
-			body: 'This is an example modal.',
-			image: 'https://i.imgur.com/WOgTG96.gif',
+			title: 'How to Use This Map',
+			body: `
+				<div class="prose"><ul>
+					<li>Click on any blue-colored region on the map to select a Conservative riding.</li>
+					<li>Use the search bar at the top to find your address or city on the map.</li>
+				</ul>
+				<p>Questions? Email us at <a href="mailto:info@stopbill212.org" class="underline">info@stopbill212.org</a></p>
+				</div>
+			`
 		};
 		modalStore.trigger(modal);		
 	}	

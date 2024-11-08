@@ -96,12 +96,18 @@
 		const modal: ModalSettings = {
 			type: 'alert',
 			// Data
-			title: 'Example Alert',
-			body: 'This is an example modal.',
-			image: 'https://i.imgur.com/WOgTG96.gif',
+			title: 'How to Use This Map',
+			body: `
+				<div class="prose"><ul>
+					<li>Click any blue region on the map to select a Conservative riding</li>
+					<li>Use the search bar to find where your friends and family live</li>
+				</ul>
+				<p>Questions? Email us at <a href="mailto:info@stopbill212.org" class="underline">info@stopbill212.org</a></p>
+				</div>
+			`
 		};
 		modalStore.trigger(modal);		
-	}
+	}	
 </script>
 
 <svelte:window bind:innerHeight={innerHeight} />
