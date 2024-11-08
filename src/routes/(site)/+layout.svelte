@@ -3,14 +3,11 @@
 </script>
 
 
-<div class="container mx-auto min-h-screen grid grid-rows-[auto_1fr_auto] flex" >
-    <header class="p-4">
-		STOP BILL 212
-    </header>
-    <main class="p-4 space-y-4 flex-grow">
+<div class="min-h-screen flex flex-col" >
+    <main class="flex-grow items-center justify-center flex p-8">
 		{@render children()}
     </main>
-    <footer class="p-4">
-        Copyright...
+    <footer class="p-4 text-center">
+        Questions? Email us at <a href="mailto:ABC" class="underline">ABC@stopbill212.org</a>
     </footer>
 </div>
