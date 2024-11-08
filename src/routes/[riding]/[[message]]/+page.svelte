@@ -72,7 +72,7 @@
 
     <!-- Right column on desktop, middle on mobile -->
     <div class="w-full lg:w-2/5 lg:pl-4" bind:this={contactForm}>
-        <ContactForm {letterContent} rep={data.riding.rep} riding={data.riding.riding} email={data.riding.email} />
+        <ContactForm {letterContent} rep={data.riding.rep} riding={data.riding.riding} email={data.riding.email} messageType={data.message} />
     </div>
 </div>
 

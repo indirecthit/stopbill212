@@ -6,12 +6,19 @@ default:
     The Ontario government is proposing a framework that would require provincial approval for municipal bike lanes and remove existing bike lanes. This policy would create unnecessary barriers to sustainable transportation infrastructure and undermine our right to a healthful environment. We need to act now to protect our communities and the environment.
   email: |
     Dear {rep},
-    I am writing about the proposed framework requiring provincial approval for municipal bike lanes. This policy raises serious environmental concerns.
-    The Environmental Bill of Rights establishes our right to a healthful environment. Bike lanes directly support this right by reducing air pollution, decreasing harmful stormwater runoff, and creating safer streets. The proposed framework contradicts these environmental protections by creating unnecessary barriers to sustainable transportation infrastructure.
-    Municipalities already make informed decisions about local transportation needs based on community and environmental conditions. Adding provincial oversight will only slow their ability to implement evidence-based solutions that benefit both the environment and residents.
-    I urge you to reconsider this framework and instead support municipalities in developing environmentally responsible transportation networks.
+
+    I'm writing about Bill 212's plan to remove protected bike lanes in Toronto. This proposal would waste millions in taxpayer dollars to remove safety infrastructure that's working well for our community.
+    The evidence is clear:
+    - Protected bike lanes reduce deaths and serious injuries by 44% for all road users
+    - Toronto's own data shows current traffic delays come from construction projects, not bike lanes
+    - Local businesses along Bloor Street report increased customer activity since bike lanes were installed
+    - Over 120 Toronto doctors warn that removing these lanes will lead to preventable deaths
+
+    Instead of spending millions to make our streets less safe, let's invest in solutions that help everyone get home safely - whether they drive, walk, bike, or take transit. I urge you to oppose this bill and support evidence-based transportation policies that benefit all Ontarians.
+
     Sincerely,
-    [Your Name]
+    [Your name]
+    [Address]
 safety_for_me:
   title: Safety for Me
   sms: >
@@ -19,14 +26,16 @@ safety_for_me:
   ask: >
     I rely on protected bike lanes to get home safely to my family each day. Research shows these lanes reduce crashes for everyone - and they're working in our community. But the province plans to remove them next month. Would mean the world if you could take a minute to help keep me safe.
   email: |
-    SAFETY SAFETY 
     Dear {rep},
-    I am writing about the proposed framework requiring provincial approval for municipal bike lanes. This policy raises serious environmental concerns.
-    The Environmental Bill of Rights establishes our right to a healthful environment. Bike lanes directly support this right by reducing air pollution, decreasing harmful stormwater runoff, and creating safer streets. The proposed framework contradicts these environmental protections by creating unnecessary barriers to sustainable transportation infrastructure.
-    Municipalities already make informed decisions about local transportation needs based on community and environmental conditions. Adding provincial oversight will only slow their ability to implement evidence-based solutions that benefit both the environment and residents.
-    I urge you to reconsider this framework and instead support municipalities in developing environmentally responsible transportation networks.
+    I'm writing about Bill 212 and its plan to remove protected bike lanes that my family and friends rely on daily. Bike lanes are a practical necessity that keeps them safe and helps their budget.
+
+    The evidence shows these lanes prevent crashes and save lives. Toronto's own data confirms that current traffic delays come from construction projects, not bike lanes. Spending millions to remove safety infrastructure that families depend on doesn't seem fiscally responsible when there are better solutions available.
+
+    Would you be willing to discuss alternative approaches that could address traffic concerns while protecting families who rely on safe bike infrastructure?
+
     Sincerely,
-    [Your Name]  
+    [Your name]
+    [Address] 
 money:
   title: Money
   sms: >
@@ -34,7 +43,18 @@ money:
   ask: >
     Protected bike lanes help everyone get home safely - whether you drive, walk, or bike. Studies show they reduce crashes and help traffic flow more smoothly by giving people transportation choices. But instead of solving real transportation challenges, the Ontario government wants to spend millions in tax dollars tearing out bike lanes that local communities carefully planned and built. They're asking you to pay twice - once for installation and again for removal - while making our streets less safe for families. Before the province removes bike lanes that help keep your family and friends safe, contact your MPP today to share why safe streets matter to you.
   email: |
-    b
+    Dear {rep},
+
+    I'm writing as a concerned constituent about the wasteful spending proposed in Bill 212. The plan to remove recently installed bike lanes on Bloor, Yonge, and University would force taxpayers to pay twice - once for the original installation and again for removal - at a cost of millions of dollars.
+
+    Instead of spending millions to remove safety infrastructure that's working well, couldn't these tax dollars be better invested in actual solutions to traffic congestion, like improving road maintenance or signal timing?
+
+    Other cities that have removed and later reinstalled bike lanes ended up spending three times more than if they'd kept the original infrastructure. Let's learn from their costly mistakes rather than repeat them.
+
+    I urge you to oppose this wasteful spending and focus instead on responsible use of our tax dollars.
+    Sincerely,
+    [Your name]
+    [Address]
 safety_for_all:
   title: Safety for All
   sms: >
@@ -42,7 +62,17 @@ safety_for_all:
   ask: >
     Every year, too many Ontarians are injured or killed on our roads, but we know how to prevent these tragedies. Cities that maintain protected bike lanes see 44% fewer traffic deaths and serious injuries for all road users - whether they drive, walk, bike, or take transit. Before the province removes bike lanes that help keep your family and friends safe, contact your MPP today to share why safe streets matter to you.
   email: |
-    b
+    Dear {rep},
+    
+    I'm deeply concerned about the safety implications of Bill 212's plan to remove protected bike lanes in Toronto. This isn't just about cyclist safety - research shows that protected bike lanes reduce deaths and serious injuries by 44% for everyone who uses our roads, including drivers and pedestrians.
+    
+    When we remove these safety features, we put all road users at greater risk. Over 120 Toronto doctors and medical researchers have warned that removing these lanes will lead to preventable injuries and deaths. They see the tragic consequences of unsafe streets firsthand in our emergency rooms.
+    
+    As your constituent, I ask you to prioritize the safety of all Ontarians and oppose the removal of this proven safety infrastructure. No family should lose a loved one to a preventable traffic death.
+    
+    Sincerely,
+    [Your name]
+    [Address]
 research:
   title: Research & Data
   sms: >
@@ -50,7 +80,17 @@ research:
   ask: >
     When we're stuck in traffic, it's tempting to blame bike lanes. But evidence from cities around the world shows that removing them won't solve congestion – in fact, it often makes it worse. Protected bike lanes help reduce traffic by giving people a safe alternative for shorter trips, taking cars off the road during rush hour. In Toronto, studies have found that construction and population growth are the real causes of most delays, while bike lanes have had little impact on car travel times. 
   email: |
-    b    
+    Dear {rep},
+
+    I understand the frustration with traffic congestion, but removing bike lanes won't solve the problem. Toronto's own transportation data tells a different story: current delays on major routes like University Avenue are primarily caused by construction projects like the Ontario Line and TTC upgrades, not bike lanes.
+    
+    In fact, the city's 12-month evaluation showed "limited to no impacts on motor vehicle travel times" after bike lane installation. These lanes actually help reduce congestion by giving people safe alternatives for shorter trips, taking cars off the road during peak hours.
+    
+    Before we spend millions removing infrastructure based on assumptions, shouldn't we follow the evidence? The data shows bike lanes aren't the cause of our traffic problems - so removing them won't be the solution.
+    
+    Sincerely,
+    [Your name]
+    [Address]
 local_autonomy:
   title: Local Autonomy
   sms: >
@@ -72,6 +112,7 @@ local_autonomy:
     
     Sincerely,
     [Your Name]
+    [Address]
 highway_413:
   title: Highway 413
   sms: >
@@ -92,4 +133,5 @@ highway_413:
     Thank you for your service and for considering the views of your constituents on this important issue.
 
     Sincerely,
-    [Your Name]    
+    [Your Name]  
+    [Address]  

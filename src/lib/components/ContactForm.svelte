@@ -1,31 +1,32 @@
 <script lang="ts">
 	import { clipboard } from '@skeletonlabs/skeleton';
 	import {
-		BadgeAlert,
-		BadgeDollarSign,
 		Clipboard,
-		House,
-		Mail,
-		Microscope,
-		Pencil,
-		ShoppingCart,
-		Sun
+		Mail
 	} from 'lucide-svelte';
+	import Messages from '$lib/content/messages.yaml';
+	import { goto } from '$app/navigation';
 
 	type Props = {
-		letterContent: string;
+		messageType: string;
 		rep: string;
 		riding: string;
 		email: string;
 	};
 
-	let { letterContent, rep, riding, email }: Props = $props();
-	let emailCopy = $state(letterContent);
+	let { messageType = 'default', rep, riding, email }: Props = $props();
+
+	let selectedMessage = $state(messageType);
+	let emailCopy = $derived.by(() => {
+        let email = Messages[selectedMessage].email;
+        return email.replace('{riding}', riding).replace('{rep}', rep).replace('{email}', email);
+    });
+
 
 	let mailTohref = $derived.by(() => {
 		const subject = "I do not support Bill 212"
         return encodeURI(`mailto:?subject=${subject}&body=${emailCopy}`);
-    });
+    });	
 
     let emailInput: HTMLInputElement;
 </script>
@@ -48,6 +49,14 @@
 		</div>
 	</label>
 	<label class="label">
+		<span>Choose type of message</span>
+		<select class="select" bind:value={selectedMessage} >
+			{#each Object.keys(Messages) as key}
+				<option value={key}>{Messages[key].title}</option>
+			{/each}
+		</select>	
+	</label>
+	<label class="label">
 		<div class="flex items-end">
 			<span class="flex-grow">Message</span>
 			<!-- <button class="btn btn-sm variant-filled" use:clipboard={data.riding.email}>
@@ -55,7 +64,7 @@
                 <span>Customize Message</span>
             </button> -->
 		</div>
-		<textarea class="h-48 w-full p-4" bind:value={emailCopy}></textarea>
+		<textarea class="h-48 w-full p-4" value={emailCopy}></textarea>
 	</label>
 	<div class="flex space-x-4">
 		<a href={mailTohref} class="variant-filled-primary btn btn-sm flex-grow" target="_blank">
