@@ -8,6 +8,6 @@
 		{@render children()}
     </main>
     <footer class="p-4 text-center">
-        Questions? Email us at <a href="mailto:ABC" class="underline">ABC@stopbill212.org</a>
+        Questions? Email us at <a href="mailto:info@stopbill212.org" class="underline">info@stopbill212.org</a>
     </footer>
 </div>
