@@ -32,7 +32,7 @@
 </script>
 
 <div class="m-4 flex-col space-y-4">
-	<h2 class="mb-4 text-2xl font-bold">Contact {rep} ({riding})</h2>
+	<h2 class="h3">Contact {rep} ({riding})</h2>
 	<label class="label">
 		<span>Contact Email</span>
 		<div class="input-group input-group-divider grid-cols-[1fr_auto]">

@@ -36,38 +36,34 @@
     }
 </script>
 
-<div class="w-full flex flex-col lg:flex-row lg:max-w-6xl">
+<div class="w-full flex flex-col lg:flex-row lg:max-w-6xl  pt-16">
     <!-- Left column on desktop, top and bottom on mobile -->
-    <div class="w-full lg:w-3/5 flex flex-col">
+    <div class="w-full lg:w-3/5 flex flex-col space-y-8">
         <!-- Ask section - always at top -->
-        <div class="m-4">
-            <h2 class="text-2xl font-bold mb-4">An Ask...</h2>
-            <p>
-                {ask}
-            </p>
-            <button type="button" onclick={scrollToContact} class="btn variant-filled w-full lg:hidden my-4">Contact Your MPP</button>
-        </div>
+        <h1 class="lg:text-6xl text-4xl font-black">A Quick Note Can Make a Difference</h1>
+        <p>
+            {ask}
+        </p>
+        <button type="button" onclick={scrollToContact} class="btn variant-filled w-full lg:hidden my-4">Contact Your MPP</button>
 
         <!-- Why Bike Lanes Matter - bottom on mobile, bottom of left column on desktop -->
-        <div class="m-4">
-            <h2 class="text-2xl font-bold mb-4">Why Bike Lanes Matter</h2>
-            <Accordion>
-                {#each Explanations.items as explanation}
-                    <AccordionItem>
-                        <svelte:fragment slot="lead"><ExplanationIcon icon={explanation.icon}/></svelte:fragment>
-                        <svelte:fragment slot="summary">
-                            <span class="font-bold">{explanation.title}</span>
-                            <div>{explanation.snippet}</div>
-                        </svelte:fragment>
-                        <svelte:fragment slot="content">
-                            <div class="prose">
-                                {@html parseMarkdown(explanation.content)}
-                            </div>
-                        </svelte:fragment>
-                    </AccordionItem>
-                {/each}                                                      
-            </Accordion>
-        </div>
+        <h2 class="h2">Why Bike Lanes Matter</h2>
+        <Accordion>
+            {#each Explanations.items as explanation}
+                <AccordionItem>
+                    <svelte:fragment slot="lead"><ExplanationIcon icon={explanation.icon}/></svelte:fragment>
+                    <svelte:fragment slot="summary">
+                        <span class="font-bold">{explanation.title}</span>
+                        <div>{explanation.snippet}</div>
+                    </svelte:fragment>
+                    <svelte:fragment slot="content">
+                        <div class="prose">
+                            {@html parseMarkdown(explanation.content)}
+                        </div>
+                    </svelte:fragment>
+                </AccordionItem>
+            {/each}                                                      
+        </Accordion>
     </div>
 
     <!-- Right column on desktop, middle on mobile -->
