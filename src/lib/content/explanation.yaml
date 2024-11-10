@@ -6,111 +6,91 @@ items:
       When we're stuck in traffic, it's natural to look for quick solutions. But research shows that removing bike lanes doesn't solve congestion – it often makes it worse. Cities worldwide have found that protected bike lanes help traffic flow by giving people safe alternatives to driving, especially for shorter trips. In Toronto, studies show construction projects and population growth, not bike lanes, are the main causes of current delays.
 
       Here's what the evidence tells us:
-      - Toronto's data shows that on University Avenue, current delays come from Ontario Line construction and TTC elevator work at Museum Station – not bike lanes[^1]. Data analysis from a 12-month evaluation period following bike lane installation showed "limited to no impacts on motor vehicle travel times."[^2]
-      - After installing Bloor Street bike lanes, car travel times increased by just 2-4 minutes at peak hours, while cycling increased by over 1,000%[^3]. The Bloor Annex BIA reports that business activity increased significantly along the corridor since the bike lanes were installed in 2016[^4].
-      - Multiple studies have found that when cities add protected bike lanes, 20-30% of residents will choose bikes for shorter trips[^5], taking cars off the road during peak hours and helping everyone move more efficiently.
-      - The idea that bike lanes significantly impact emergency response times has been disproven. Toronto's emergency services have confirmed that protected bike lanes can actually help emergency vehicles navigate congested streets by providing a clear path when other vehicles pull over.
-      - When Copenhagen, a city similar in size to Toronto, expanded its bike network, they found that each person who switched from driving to cycling for regular trips removed one car from rush hour traffic. The result? Better traffic flow for those who need to drive.
+      - Toronto's data shows that on University Avenue, current delays come from construction – not bike lanes[^1]. Data analysis from a 12-month evaluation period following bike lane installation showed "limited to no impacts on motor vehicle travel times."[^1]
+      - After installing Bloor Street bike lanes, car travel times increased by just 2-4 minutes at peak hours, while cycling increased. The Bloor Annex BIA has stated that removing the bike lanes would be "disastrous to the neighbourhood" based on their positive impact [^4].
+      - Each person who switches from driving to cycling removes one car from rush hour traffic. The result? Better traffic flow for those who need to drive.
 
-      [^1]: CBC News, "University bike lanes didn't impact car travel times: data" (2024)
-      [^2]: City of Toronto Transportation Services Report (2024)
-      [^3]: City of Toronto Cycling Study, Nanos Research (2019)
-      [^4]: Bloor Annex BIA Economic Impact Study (2024)
-      [^5]: Marshall & Ferenchak, "Why cities with high bicycling rates are safer for all road users" (2019)      
+      [^1]: [CBC News, "University bike lanes didn't impact car travel times: data" ](https://www.cbc.ca/news/canada/toronto/ont-bike-lanes-1.7369898)
+      [^4]: [Bloor Annex BIA Economic Impact Study](https://www.tcat.ca/wp-content/uploads/2017/12/Bloor-Economic-Impact-Study-Full-Report-2019-09-03.pdf)
+      [^5]: [Marshall & Ferenchak, "Why cities with high bicycling rates are safer for all road users" ](https://www.sciencedirect.com/science/article/abs/pii/S2214140518301488?via%3Dihub)
   - icon: BadgeAlert
     title: Lives at Stake - Making Our Streets Safer for Everyone
     snippet: Over 120 Toronto doctors explain why streets with protected spaces for each type of user are safer for everyone.
     content: |
       When we discuss bike lanes, safety isn't just about cyclists – it's about creating streets that protect everyone. Research from cities across North America shows that streets with protected bike lanes have significantly lower crash rates for all users. Here in Toronto, more than 120 physicians and medical researchers have emphasized that protected bike lanes prevent injuries and save lives. The evidence is clear: when we design streets with dedicated spaces for each type of user, they become safer for everyone.
 
-      - Protected bike lanes on main streets reduce injuries by 44% for all road users – including drivers, pedestrians, and cyclists[^6]. In cities with comprehensive bike networks, overall traffic fatality rates are 75% lower compared to cities without protected lanes[^7].
+      - Protected bike lanes on main streets reduce injuries by 44% for all road users – including drivers, pedestrians, and cyclists[^6]. In Portland, overall traffic fatality rates dropped 75% between 1990-2010 as the city expanded its bike network and increased cycling rates[^7].
       - Toronto's University Avenue bike lanes haven't caused any significant safety issues, according to city emergency services. In fact, having designated spaces for different road users makes traffic movements more predictable and reduces conflict points[^8].
       - Over 120 physicians and researchers from Toronto's hospitals signed a letter opposing Bill 212, stating that "the vast majority of traffic-related fatalities – pedestrian and cyclist especially – are preventable" through protected infrastructure[^9]. They emphasize that preventing crashes is far preferable to treating injuries.
       
-      [^6]: University of Colorado Denver/Marshall & Ferenchak Study (2019)
-      [^7]: City of Portland Bureau of Transportation Safety Analysis (2011-2024)
-      [^8]: Toronto Emergency Services Report (2024)
-      [^9]: University of Toronto Medical Professionals' Open Letter on Bill 212 (2024)
+      [^6]: [Separated Bike Lanes Means Safer Streets, Study Says](https://usa.streetsblog.org/2019/05/29/protect-yourself-separated-bike-lanes-means-safer-streets-study-says) 
+      [^7]: [Cycling lanes reduce fatalities for all road users, study shows](https://www.sciencedaily.com/releases/2019/05/190529113036.htm)
+      [^8]: [CBC News - Ontario plans to remove Toronto bike lanes on Bloor, Yonge, University](https://www.cbc.ca/news/canada/toronto/ont-bike-lanes-1.7369898)
+      [^9]: [Legislation that guides road design must prioritize safety over travel times](https://healthydebate.ca/2024/10/topic/legislation-road-design-safety-travel-times/)
   - icon: Snowflake
     title: The Winter Weather Myth
     snippet: Discover how winter cycling is thriving in Toronto and cities with even harsher winters.
     content: |
       The idea that Toronto's bike lanes sit empty in winter is a common misconception. City data shows significant year-round use of our bike lanes, with winter cycling growing steadily each year. Cities with similar or harsher winters like Montreal, Minneapolis, and Copenhagen have proven that winter cycling thrives when people have safe infrastructure and proper maintenance.
 
-      - Toronto's cycling counts show winter ridership has increased dramatically, with winter cycling volumes on Yonge Street up by more than 50% between 2022/2023 and 2023/2024[^10]. Even in winter months, the daily average is 34% of summer cycling volumes across major routes[^11].
-      - Montreal, which experiences colder temperatures and more snowfall than Toronto, has seen winter cycling increase by 14% annually. Their network of 1,065 kilometers of bike lanes remains active year-round, demonstrating that winter weather isn't a barrier when infrastructure is properly maintained[^12].
-      - A 2019 City of Toronto study found that 44% of residents would like to cycle more year-round, and 70% support maintaining protected bike lanes in winter. The main factor influencing winter cycling isn't temperature – it's the availability of safe, separated infrastructure[^13].
+      - Toronto's cycling counts show winter ridership is growing, with winter cycling volumes on Yonge Street increasing by more than 50% between 2022/2023 and 2023/2024. Even in winter months, the daily average is 34% of summer cycling volumes across major routes[^10].
+      - Montreal, which experiences colder temperatures and more snowfall than Toronto, maintains an extensive network of 1,065 kilometers of bike lanes year-round, demonstrating that winter weather isn't an insurmountable barrier[^12].
+      - A 2019 City of Toronto study found that 44% of Torontonians bike in good weather, with 70% of residents cycling in some capacity throughout the year[^13].
 
-      [^10]: City of Toronto Cycling Data Analysis (2024)
-      [^11]: Toronto Transportation Services Winter Cycling Report (2024)
-      [^12]: CBC News, "Montreal's cycling network has doubled in 10 years" (2024)
-      [^13]: City of Toronto Cycling Study, Nanos Research (2019)
+      [^10]: [CBC News - Ontario plans to remove Toronto bike lanes on Bloor, Yonge, University](https://www.cbc.ca/news/canada/toronto/ont-bike-lanes-1.7369898)
+      [^12]: [CBC News, "Montreal's cycling network has doubled in 10 years" ](https://www.cbc.ca/news/canada/montreal/protected-bike-lanes-resident-concerns-1.7375694)
+      [^13]: [City of Toronto Cycling Study](https://www.toronto.ca/wp-content/uploads/2021/04/8f76-2019-Cycling-Public-Option-Survey-City-of-Toronto-Cycling.pdf)
   - icon: Siren
     title: Emergency Access and Safety
     snippet: See how Hospital Row's bike lanes were designed with emergency services to help first responders navigate busy streets.
     content: |
-      A key concern about bike lanes is their impact on emergency response times. However, data and experience from emergency services show that protected bike lanes can actually help first responders navigate busy streets. Before installing bike lanes on Hospital Row, Toronto carefully studied access requirements and consulted with hospital administrators, emergency services, and healthcare workers to ensure critical access would be maintained.
+      A key concern about bike lanes is their impact on emergency response times. When designing the University Avenue bike lanes in 2020, the City of Toronto consulted with emergency services partners and hospital administrators along the corridor. The city's data analysis during a 12-month evaluation period following the street configuration changes showed no reported issues from emergency services regarding traffic on University Avenue[^14].
 
-        - The city's data analysis during a 12-month evaluation period following University Avenue's bike lane installation showed "emergency services have not raised any issues about traffic" and "emergency services are accustomed to maneuvering through a variety of road conditions and will continue to take the route that provides the fastest response"[^14].
-        - Hospital administrators from Toronto's major hospitals, including those along Hospital Row, confirm that ambulances and emergency vehicles can still quickly access their facilities. In fact, protected bike lanes often provide a clear path for emergency vehicles when other traffic pulls over, improving response times during congested periods[^15].
-        - Medical professionals working in hospitals along University Avenue have voiced strong support for the bike lanes. Over 120 physicians and healthcare workers signed a letter stating that claims about emergency access issues are unfounded, emphasizing that the bike lanes were designed with emergency vehicle access in mind[^16].      
-
-        [^14]: City of Toronto Transportation Services Report (2024)
-        [^15]: Toronto Emergency Services Access Analysis (2024)
-        [^16]: University of Toronto Medical Professionals' Open Letter on Bill 212 (2024)
-        [^17]: Toronto Hospital Administrators' Joint Statement on Bike Lane Access (2024)
+      The medical community has voiced support for maintaining the bike lanes. In October 2024, over 120 physicians and researchers from the University of Toronto, including those practicing in emergency medicine, trauma, surgery, anesthesiology, intensive care, and other specialties, signed a letter opposing the removal of bike lanes, emphasizing the importance of protected bicycle infrastructure for road safety[^16].
+      
+      [^16]: [Green Communities Canada Letter to Ontario Minister of Transportation](https://greencommunitiescanada.org/letter-to-ontario-minister-of-transportation-about-bill-212/)
   - icon: House
     title: Side Streets Aren't the Solution
     snippet: Why moving bike lanes to side streets creates longer trips and more risks while making destinations harder to reach.
     content: |
-      While moving bike lanes to side streets might seem like a simple solution, the reality is more complex. Most of Toronto's key destinations - workplaces, transit stations, schools, and shops - are located on main roads. Research shows that requiring cyclists to use side streets creates longer trips, more intersections to cross, and actually increases safety risks due to poor connectivity and visibility.
+      While moving bike lanes to side streets might seem like a simple solution, the reality is more complex. Many of Toronto's key destinations are located along major roads. In Etobicoke, for example, moving the Bloor Street bike lanes to side streets would add about two kilometers and 15-20 minutes to trips due to natural barriers. As Cycle Toronto Executive Director Michael Longfield explains: 'Looking at the Bloor bikeway in Etobicoke, it's crossing two ravines, two rivers... The neighborhood side streets don't make those types of crossings.'[^18]
 
-        - A 2024 study looking at Bloor Street's cycling patterns found that detours to side streets would add an average of 2 kilometers and 15-20 minutes to typical commute times. Executive Director of Cycle Toronto Michael Longfield explains: "Looking at the Bloor bikeway in Etobicoke, it's crossing two ravines, two rivers... The neighborhood side streets don't make those types of crossings"[^18].
-        - Toronto's own transportation data shows that 85% of destinations cyclists need to reach - including schools, shops, offices, and transit stations - are located on main streets. Side street routes would force most cyclists to repeatedly merge back onto busy arterial roads to reach their destinations[^19].
-        - Research from Vancouver and Montreal demonstrates that bike lanes on main streets have 40% fewer crashes than those on side streets. This is largely because drivers are more alert and expecting cyclists on main roads, while side street intersections often have poor visibility and unexpected conflicts[^20].    
-
-        [^18]: CBC News, "Ontario's transport minister says 1.2% of people in Toronto commute by bike. Data shows otherwise" (2024)
-        [^19]: City of Toronto Transportation Services Cycling Network Analysis (2024)
-        [^20]: Marshall & Ferenchak, "Why cities with high bicycling rates are safer for all road users" (2019)
-        [^21]: Toronto Public Health Active Transportation Safety Report (2024)
+      [^18]: [CBC News, "Ontario's transport minister says 1.2% of people in Toronto commute by bike. Data shows otherwise" ](https://www.cbc.ca/news/canada/toronto/toronto-bike-lane-1-2-per-cent-1.7374744)
   - icon: Sun
     title: Climate Action Starts on Our Streets
     snippet: Making cycling safe for short trips is one of our most effective tools for improving air quality.
     content: |
-      Transportation is Ontario's largest and fastest-growing source of greenhouse gas emissions. While the climate crisis can feel overwhelming, evidence shows that well-designed bike lanes offer one of our most practical and cost-effective tools for reducing emissions. When communities make cycling safe and convenient, people choose bikes for shorter trips, creating immediate benefits for our air quality and climate goals.
+      Transportation is Ontario's largest source of emissions, with road transportation responsible for more than a quarter of the province's total greenhouse gas emissions[^1]. While the climate crisis can feel overwhelming, evidence shows that well-designed bike lanes offer one of our most practical and cost-effective tools for reducing emissions.
 
-      - Transportation accounts for 25% of Ontario's total emissions, with cars and trucks being the largest contributor. Research shows that shifting just 5% of short car trips to cycling can reduce transportation emissions by up to 7%. Currently, 46% of all car trips in Toronto are less than 5 kilometers - a distance easily covered by bike when safe infrastructure exists[^22].
-      - The Canadian Paediatric Society reports that children are especially vulnerable to vehicle emissions and air pollution. Their research shows that replacing car trips with active transportation could prevent hundreds of premature deaths annually in Toronto while significantly improving childhood respiratory health[^23].
-      - The United Nations Intergovernmental Panel on Climate Change (IPCC) is unequivocal: "Targets to reduce carbon emissions by 2030 in line with the 1.5-degree limit for global warming cannot be achieved without a systematic increase of cycling." Each person who switches from driving to cycling for regular trips reduces their transportation-related carbon emissions by 67%[^24].
+      - Research shows that choosing a bike instead of a car just once a day reduces an individual's transportation-related carbon emissions by 67%[^1].
+      - The Canadian Paediatric Society strongly endorses protected bike lanes as a way to protect children and create safer, healthier communities[^2].
+      - The United Nations Intergovernmental Panel on Climate Change (IPCC) is unequivocal: "Targets to reduce carbon emissions by 2030 in line with the 1.5-degree limit for global warming cannot be achieved without a systematic increase of cycling."[^1]
 
-      [^22]: Ontario Ministry of Environment, Conservation and Parks Emissions Report (2024)
-      [^23]: Canadian Paediatric Society Position Statement on Active Transportation (2024)
-      [^24]: Green Communities Canada Letter to Ontario Minister of Transportation (2024)
-      [^25]: Toronto Public Health Climate & Transportation Impact Study (2024)
+      [^21]: [Green Communities Canada Letter to Ontario Minister of Transportation](https://greencommunitiescanada.org/letter-to-ontario-minister-of-transportation-about-bill-212/)
+      [^22]: [Canadian Position Statement from physicians and researchers at the University of Toronto on Bill 212](https://healthydebate.ca/2024/10/topic/legislation-road-design-safety-travel-times/)
   - icon: FastForward
     title: A Better Path Forward
     snippet: How other cities create streets that work better for everyone by improving rather than removing infrastructure.
     content: |
-      Rather than removing infrastructure that thousands of Torontonians rely on daily, let's focus on optimizing what works and solving specific challenges. Cities worldwide have shown us that with thoughtful design and community input, we can create streets that work better for everyone - whether they walk, bike, take transit, or drive.
+      Rather than removing infrastructure that thousands of Torontonians rely on daily, let's focus on optimizing what works and solving specific challenges. Cities across Canada have shown us that with thoughtful design and community input, we can create streets that work better for everyone - whether they walk, bike, take transit, or drive.
 
-      - Montreal demonstrates what's possible in a Canadian climate. They've grown their bike network to over 1,000 kilometers while reducing traffic injuries by 40% and increasing local business activity. Their success comes from focusing on connected networks rather than isolated lanes, and extensive community consultation at every step[^26].
-      - Cities that have removed bike lanes often end up rebuilding them at greater expense. New York City initially removed some protected lanes in 2011 only to reinstall them in 2016 after seeing increased crash rates and business losses. Toronto can learn from these experiences and focus on improvements rather than removal[^27].
-      - Vancouver's experience shows the value of ongoing refinement. When businesses raised concerns about the Bloor Street equivalent (Commercial Drive), they adjusted delivery zones, improved signal timing, and added better signage - solving problems while maintaining safety benefits. A similar approach could address specific concerns along Toronto's bike network[^28].    
+      - Montreal demonstrates what's possible in a Canadian climate. They've grown their cycling network to over 1,000 kilometers through careful planning and extensive community consultation. When implementing new protected lanes, they've learned to spend more time consulting with residents and businesses to address concerns early[^26].
+      - Research examining 12 major U.S. cities found that places investing in high-quality bike infrastructure saw improved safety outcomes for all road users[^27]. This suggests Toronto would benefit more from improving existing infrastructure than removing it.
+      - Local data shows the value of existing lanes - the Bloor Annex BIA reports increased business activity along the corridor since bike lanes were installed in 2016[^28]. This demonstrates how well-designed bike infrastructure can support both safety and local economic vitality.
 
-      [^26]: CBC News, "Montreal's cycling network has doubled in 10 years" (2024)
-      [^27]: Marshall & Ferenchak, "Why cities with high bicycling rates are safer for all road users" (2019)
-      [^28]: City of Vancouver Transportation Design Best Practices (2024)
+      [^26]: [CBC News, "Montreal's cycling network has doubled in 10 years" ](https://www.cbc.ca/news/canada/montreal/protected-bike-lanes-resident-concerns-1.7375694)
+      [^27]: [Marshall & Ferenchak, "Why cities with high bicycling rates are safer for all road users"](https://www.sciencedirect.com/science/article/abs/pii/S2214140518301488)
+      [^28]: Two Wheeled Politics, "Ford's War on Bikes Gets Scarier," 2024    
   - icon: BadgeDollarSign
     title: Responsible Use of Your Tax Dollars
     snippet: Why removing recently installed bike lanes would waste millions while potentially harming local businesses.
     content: |
-      The cost of removing existing bike lanes isn't just about safety and transportation - it's about fiscal responsibility. The province's plan would require spending millions in taxpayer dollars to remove infrastructure that was recently installed and is actively being used. This represents not just a waste of past investments, but creates new costs that could be better spent on improving our streets for everyone.
+      The cost of removing existing bike lanes isn't just about safety and transportation - it's about fiscal responsibility. The province's plan would require spending millions in taxpayer dollars to remove infrastructure that was recently installed and is actively being used[^1].
 
-      - Toronto's city manager Paul Johnson estimates that millions of dollars in planning, consultation, and construction costs went into installing the bike lanes on Bloor, Yonge, and University Avenue. The province's plan would require taxpayers to pay twice - once for installation and again for removal[^29].
-      - After installing bike lanes, businesses along Bloor saw significant increases in customer spending, with some areas reporting up to 30% more activity. The Bloor Annex BIA data shows that removing these lanes would negatively impact local businesses that have adapted and thrived with the current street design[^30].
-      - Cities that have removed and later reinstalled bike lanes have spent up to three times the original cost. When New York City temporarily removed some protected lanes, the total cost including removal, crash-related expenses, and reinstallation exceeded $15 million[^31].      
+      - Toronto's city manager Paul Johnson confirms that millions of dollars in planning, consultation, and construction costs went into installing the bike lanes on Bloor, Yonge, and University Avenue. He argues that Toronto taxpayers shouldn't have to pay twice - once for installation and again for removal[^29].
+      - The Bloor Annex Business Improvement Area (BIA) data shows that local businesses have adapted and thrived with the current bike lanes. The BIA warns that removing these lanes would be "disastrous to the neighbourhood"[^30].
+      - The city would be required to "provide support to facilitate the removal" of the lanes[^4], creating new costs that could be better spent on improving our streets for everyone.
 
-      [^29]: CBC News, "Province should pay for bike lane installation, not just removal, city manager says" (2024)
-      [^30]: Toronto Business Improvement Area Economic Impact Study (2024)
-      [^31]: "Business Insider: Bike lanes are good for business, but store owners still hate them" (2024)
-      [^32]: City of Toronto Transportation Services Budget Report (2024)
+      [^29]: [CBC News, "Province should pay for bike lane installation, not just removal, city manager says" ](https://www.cbc.ca/news/canada/toronto/toronto-bike-lane-provincial-removal-1.7373997)
+      [^30]: [CityNews, "Mayor calls Ford government’s removal of bike lanes ‘arbitrary’ and not a good use of taxpayers money"](https://toronto.citynews.ca/2024/11/01/mayor-ford-governments-bike-lane-removal/)
+      [^31]: [CBC News, "Ontario plans to remove Toronto bike lanes on Bloor, Yonge, University"](https://www.cbc.ca/news/canada/toronto/ont-bike-lanes-1.7369898)
