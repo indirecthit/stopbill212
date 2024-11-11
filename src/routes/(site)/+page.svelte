@@ -9,7 +9,7 @@
 
 
 
-	<div class="container mx-auto w-full md:max-w-2xl flex-col space-y-8">
+	<div class="container mx-auto w-full md:max-w-2xl flex-col space-y-8 pt-16">
         <h1 class="lg:text-6xl text-4xl font-black">STOP BILL 212</h1>
         <p>
             Bill 212 would take away local communities' ability to build the safe, vibrant streets we all want. The bill requires provincial approval for bike lanes and mandates removing existing lanes on major roads that help families, seniors and children travel safely. Together, we can keep decisions about our neighborhood streets where they belong - in our communities.
@@ -40,14 +40,12 @@
                 naturally. Share this tool to help others join the conversation about Bill 212.</p>            
             <ShareMessage messageType="network" />
 		</div>        
-        <!-- <div class="w-full flex-col space-y-4">
+        <div class="w-full flex-col space-y-4">
 			<h2 class="h3">Further Information</h2>
-            <p>
-                Learn more about the bill and how it could impact your community.
-            </p>
+            <p>Find further informatiioin, including articles, research studies, and expert opinions on the bill and its implications.</p>
             <a class="btn-primary variant-filled btn  w-full md:w-auto" href="/more_info">
                 <span><Newspaper/></span>
                 <span>More Information</span>
             </a>
-		</div>         -->
+		</div>        
 	</div>
