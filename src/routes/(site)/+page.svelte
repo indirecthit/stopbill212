@@ -1,4 +1,6 @@
 <script>
+	import ShareMessage from "$lib/components/ShareMessage.svelte";
+
 	// Your script here
 
 	import { Search, UserSearch, Newspaper } from "lucide-svelte";
@@ -32,6 +34,12 @@
                 <span>Contact Your MPP</span>
             </a>
 		</div>
+        <div class="w-full flex-col space-y-4">
+			<h2 class="h3">Share</h2>
+            <p>When we connect with friends and family about issues that matter, positive change happens
+                naturally. Share this tool to help others join the conversation about Bill 212.</p>            
+            <ShareMessage messageType="network" />
+		</div>        
         <!-- <div class="w-full flex-col space-y-4">
 			<h2 class="h3">Further Information</h2>
             <p>

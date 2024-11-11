@@ -104,7 +104,7 @@
 							<span><ArrowBigRight /></span>
 						</button>
 					{:else}
-						<a class="variant-filled btn" href="/find_ridings/share">
+						<a class="variant-filled btn" href="/share">
 							<span><BadgeCheck/></span>
 							<span>Finish</span>
 						</a>
