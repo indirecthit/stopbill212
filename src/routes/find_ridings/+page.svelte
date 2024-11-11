@@ -110,6 +110,10 @@
 	}	
 </script>
 
+<svelte:head>
+	<title>Stop Bill 212 - Find Friends & Family in Conservative Ridings</title>
+</svelte:head>
+
 <svelte:window bind:innerHeight={innerHeight} />
 
 <div class="mx-auto flex grid h-full max-h-screen max-w-4xl grid-rows-[auto_1fr_auto]">

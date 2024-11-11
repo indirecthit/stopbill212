@@ -7,6 +7,10 @@
 
 </script>
 
+<svelte:head>
+	<title>Stop Bill 212 - Identify which of your Ontario contacts live in Conservative ridings</title>
+	<meta name="description" content="Take action! Together we can build streets that work better for families, seniors, and businesses." />
+</svelte:head>
 
 
 	<div class="container mx-auto w-full md:max-w-2xl flex-col space-y-8 pt-16">

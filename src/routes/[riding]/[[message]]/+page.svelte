@@ -36,6 +36,10 @@
     }
 </script>
 
+<svelte:head>
+	<title>Contact {data.riding.rep} to Stop Bill 212</title>
+</svelte:head>
+
 <div class="w-full flex flex-col lg:flex-row lg:max-w-6xl  pt-16">
     <!-- Left column on desktop, top and bottom on mobile -->
     <div class="w-full lg:w-3/5 flex flex-col space-y-8">

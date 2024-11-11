@@ -5,6 +5,10 @@
     const links = MoreInfo.links;
 </script>
 
+<svelte:head>
+	<title>Stop Bill 212 - Further Info</title>
+</svelte:head>
+
 <div class="mx-auto flex grid min-h-screen max-w-4xl grid-rows-[auto_1fr_auto] px-4 lg:px-0">
 	<header class="flex w-full py-4">
 		<span class="flex-1 font-black"><a href="/">STOP BILL 212</a></span>
